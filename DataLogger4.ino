@@ -1,3 +1,8 @@
+//DataLogger for Arduino MEGA used to High Altitude Balloon in Globall Space Balloon Challenge 2017.
+//Created by Martin Agnar Dahl for MAD Robot
+
+//========================
+
 //Datalogger v.4 
 //Added SMS function and millis counter
 //=======
